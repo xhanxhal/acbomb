@@ -12,7 +12,7 @@ Step 4:- pkg install python2 -y
 
 Step 5:- pkg install python3 -y
 
-Step 6:- git clone https://github.com/tuntunihaxor/acbomb
+Step 6:- git clone https://github.com/xhanxhal/acbomb
 
 Step 7:- cd acbomb && ls
 
